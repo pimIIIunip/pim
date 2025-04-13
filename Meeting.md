@@ -1,4 +1,4 @@
-### meeting log
+### meetings log
 
 ## Dia 12/03/2025
 - Todos participaram
