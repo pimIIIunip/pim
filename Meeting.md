@@ -43,5 +43,5 @@
 ---
 
 ## Dia 12/04 e 13/04
-- Todos Participaram
+- Participantes: **Manoella Moura** | **Cauã Araújo** | **Micael Leal**
 - Assunto: Organização total do GitHub
