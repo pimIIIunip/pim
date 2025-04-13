@@ -13,4 +13,4 @@ Este repositório documenta o processo de desenvolvimento do projeto **PagBus**,
 
 > Este repositório não contém o sistema final — ele é focado na organização e evolução do projeto.
 
-Para ver a simulação da empresa e produto final, acesse o repositório 👉 [PagBus](https://github.com/InfinityWare/PagBus)
+Para ver a simulação da empresa e produto final, acesse o repositório 👉 [PagBus](https://github.com/pimIIIunip/PagBus)
