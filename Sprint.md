@@ -55,3 +55,46 @@
 | Organização visual| Criar quadro de controle no git                          | Cauã Araujo    | Concluido | 🟡 Média    |
 | Documentação      | Documentar sprint planning no repositório                | Cauã Araujo e Davi Matos   | Concluido | 🟡 Média    |
 | Revisão           | Validar divisão e planejamento com o grupo               | Pedro Henrique    | Concluido | 🔴 Alta     |
+
+## Sprint 4 – Diagrama de Casos de Uso
+
+| Item             | Tarefa Técnica                                           | Responsável | Status  | Prioridade |
+|------------------|----------------------------------------------------------|-------------|---------|------------|
+| Atores           | Identificar todos os atores do sistema                   | João Maximiliano     | Concluido | 🔴 Alta     |
+| Casos principais | Definir os principais casos de uso                       | Cauã Araujo e Davi Matos     | Concluido | 🔴 Alta     |
+| Relacionamentos  | Criar relações entre casos (include, extend)             | Manoella Moura     | Concluido | 🟡 Média    |
+| Versão final     | Diagramar e revisar o caso de uso completo               | Micael Leal e Pedro Henrique    | Concluido | 🔴 Alta     |
+| Upload no GitHub | Subir o diagrama no repositório              | Micael Leal     | Concluido | 🟡 Média    |
+
+## Sprint 5 – Diagrama de Classes
+
+| Item             | Tarefa Técnica                                           | Responsável | Status  | Prioridade  |
+|------------------|----------------------------------------------------------|-------------|---------|-------------|
+| Classes principais| Definir entidades do sistema                            | Micael Leal      | Concluido | 🔴 Alta     |
+| Atributos        | Definir atributos de cada classe                         | Manoella Moura      | Concluido | 🔴 Alta     |
+| Métodos          | Especificar métodos e ações das classes                  | Pedro Henrique      | Concluido | 🔴 Alta     |
+| Relacionamentos  | Criar associação, herança e composição                   | João Maximiliano      | Concluido | 🟡 Média    |
+| Diagrama final   | Diagramar e revisar com base nos requisitos              | Cauã Araujo e Davi Matos      | Concluido | 🔴 Alta     |
+| Upload no GitHub | Subir o diagrama com legenda no repositório              | Micael Leal      | Concluido | 🟡 Média    |
+
+## Sprint 6 – Diagrama de Sequência
+
+| Item             | Tarefa Técnica                                           | Responsável | Status  | Prioridade |
+|------------------|----------------------------------------------------------|-------------|---------|------------|
+| Identificar fluxos| Escolher 2–3 fluxos principais                          | Micael Leal e Cauã Araujo     | A Fazer | 🔴 Alta     |
+| Participantes    | Definir objetos e participantes de cada sequência        | Manoella Moura     | A Fazer | 🟡 Média    |
+| Mensagens        | Definir a troca de mensagens entre objetos               | João Maximiliano     | A Fazer | 🟡 Média    |
+| Ordem lógica     | Organizar a ordem cronológica das interações             | Pedro Henrique     | A Fazer | 🟡 Média    |
+| Diagrama final   | Montar e revisar o diagrama completo                     | Davi Matos     | A Fazer | 🔴 Alta     |
+| Upload no GitHub | Subir o diagrama com legenda no repositório              | Micael Leal    | A Fazer | 🟡 Média    |
+
+## Sprint 7 – Diagrama de Implantação
+
+| Item             | Tarefa Técnica                                           | Responsável | Status  | Prioridade |
+|------------------|----------------------------------------------------------|-------------|---------|------------|
+| Identificar nós  | Definir servidores, banco de dados e dispositivos        | Micael Leal e Cauã Araujo    | A Fazer | 🔴 Alta     |
+| Componentes      | Mapear componentes do sistema nos nós                    | Pedro Henrique     | A Fazer | 🔴 Alta     |
+| Conexões         | Identificar comunicações e protocolos                    | João Maximiliano     | A Fazer | 🔴 Alta     |
+| Diagrama         | Criar diagrama com nós, conexões e dependências          | Manoella Moura     | A Fazer | 🔴 Alta     |
+| Validação        | Revisar implantação com base no cenário                  | Davi Matos     | A Fazer | 🟡 Média    |
+| Upload no GitHub | Subir o diagrama final no repositório                    | Micael Leal     | A Fazer | 🟡 Média    |
