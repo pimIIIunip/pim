@@ -45,3 +45,9 @@
 ## Dia 12/04 e 13/04
 - Participantes: **Manoella Moura** | **Cauã Araújo** | **Micael Leal**
 - Assunto: Organização total do GitHub
+
+---
+
+## Dia 14/04
+- Todos Participaram
+- Assunto: Criação do diagrama de sequência
