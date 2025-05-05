@@ -51,3 +51,10 @@
 ## Dia 14/04
 - Todos Participaram
 - Assunto: Criação do diagrama de sequência
+
+---
+
+## Dia 04/05
+- Todos Participaram
+- Assunto: atualizações finais
+  
