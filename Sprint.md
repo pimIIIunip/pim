@@ -68,7 +68,7 @@
 ### Sprint 7 – Diagrama de Implantação (4 horas)
 | Item             | Tarefa Técnica                           | Responsável | Tempo Estimado | Status  | Prioridade |
 |------------------|------------------------------------------|-------------|----------------|---------|------------|
-| Identificar nós  | Definir servidores e dispositivos        | Micael Leal e Cauã Araujo | 1h | A Fazer | 🔴 Alta |
-| Componentes      | Mapear componentes do sistema            | Pedro Henrique | 1h | A Fazer | 🔴 Alta |
-| Conexões         | Identificar comunicações e protocolos    | João Maximiliano | 1h | A Fazer | 🔴 Alta |
-| Diagrama         | Criar diagrama com nós e conexões        | Manoella Moura | 1h | A Fazer | 🔴 Alta |
+| Identificar nós  | Definir servidores e dispositivos        | Micael Leal e Cauã Araujo | 1h | Concluído | 🔴 Alta |
+| Componentes      | Mapear componentes do sistema            | Pedro Henrique | 1h | Concluído | 🔴 Alta |
+| Conexões         | Identificar comunicações e protocolos    | João Maximiliano | 1h | Concluído | 🔴 Alta |
+| Diagrama         | Criar diagrama com nós e conexões        | Manoella Moura | 1h | Concluído | 🔴 Alta |
